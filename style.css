@@ -118,10 +118,7 @@ nav .icons {
     cursor: pointer;
 }
 
-.blue-btn a {
-    color: white;
-    text-decoration: none;
-}
+
 
 .white-btn {
     background-color: #F5F5F7;
@@ -162,7 +159,7 @@ nav .icons {
     width: calc(50% - 5px);
     height: 50%;
     min-width: 100%;
-    /* overrides the default min-width: auto that blocks shrinking */
+    
 }
 
 .feature-item img {
