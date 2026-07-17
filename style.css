@@ -116,6 +116,12 @@ nav .icons {
     background-color: #0071E3;
     border: none;
     cursor: pointer;
+    color:white;
+    transition: all 0.5s ease;
+}
+.blue-btn:hover{
+    background-color:black;
+    color:white;
 }
 
 
@@ -124,6 +130,7 @@ nav .icons {
     background-color: #F5F5F7;
     border: none;
     cursor: pointer;
+
 }
 
 .hero-image {
