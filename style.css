@@ -135,7 +135,6 @@ nav .icons {
 
 .hero-image {
     flex: 1;
-    /* fills remaining space inside hero-card */
     overflow: hidden;
 }
 
