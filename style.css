@@ -143,7 +143,7 @@ nav .icons {
         height: 45vw;
         object-fit: cover;
         display: block;
-        object-position: bottom;
+        object-position: 50% 131%;
 }
 
 
