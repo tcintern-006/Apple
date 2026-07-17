@@ -230,7 +230,7 @@ nav .icons {
     }
 
     .hero-image img {
-        width: 100vw;
+        
         height: 45vw;
         object-fit: cover;
         display: block;
